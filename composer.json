@@ -1,6 +1,7 @@
 {
     "name": "gonzalo123/kataphp",
     "require": {
+        "php":">=5.3.2",
         "phpunit/phpunit": "3.7.19"
     },
     "autoload":{
