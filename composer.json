@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "gonzalo123/kataphp",
     "description":"Boostrap for coding katas witn PHP",
     "license":"MIT",
