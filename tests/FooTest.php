@@ -3,6 +3,7 @@ class FooTest extends \PHPUnit_Framework_TestCase
 {
     function testBar()
     {
-        $this->assertFalse("first test must be red");
+	$foo = new Foo();
+        $this->assertEquals(0, $foo->bar(), "first test must be red");
     }
 }
