@@ -1,5 +1,8 @@
 {
     "name": "gonzalo123/kataphp",
+    "description":"Boostrap for coding katas witn PHP",
+    "license":"MIT",
+    "keywords":["cli", "kata", "katayuno"],
     "require": {
         "php":">=5.3.2",
         "phpunit/phpunit": "3.7.19"
