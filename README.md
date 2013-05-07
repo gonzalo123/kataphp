@@ -33,4 +33,3 @@ Para ejecutar nuestros tests unitarios ejecuaremos en nuestra carpeta kataphp:
 ```
 ./bin/phpunit
 ```
-
