@@ -5,7 +5,9 @@
     "keywords":["cli", "kata", "katayuno"],
     "require": {
         "php":">=5.3.2",
-        "phpunit/phpunit": "3.7.19"
+        "phpunit/phpunit": "3.7.19",
+        "behat/behat": "2.4.*@stable"
+
     },
     "autoload":{
         "psr-0":{
