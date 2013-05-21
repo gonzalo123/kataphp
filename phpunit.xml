@@ -16,7 +16,6 @@
     syntaxCheck                 = "true"
     strict                      = "false"
     verbose                     = "true"
-    debug                       = "true"
     bootstrap                   = "vendor/autoload.php" >
 
     <testsuites>
