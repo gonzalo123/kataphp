@@ -9,7 +9,7 @@
     },
     "require-dev": {
        "phpunit/phpunit": "3.7.x-dev",
-       "behat/behat": "v2.4.5"
+       "behat/behat": "2.5.x-dev"
     },
     "autoload":{
         "psr-0":{
