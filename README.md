@@ -26,8 +26,8 @@ composer create-project -s dev gonzalo123/kataphp
 Esto creará un directorio 
 * 'kataphp' en la ubicación en la que estés y con phpunit instalado como componente
 * una carpeta tests donde irán nuestros test unitarios
-* una carpeta lib donde irán nuestras implementaciones
-* un archivo de configuración phpunit.xml con el autoloader configurado de manera que no tendremos que hacer includes de nuestras clases simpre y cuando usemos las carpetas tests para los tests y lib para la implementación (y usemos PSR-0)
+* una carpeta src donde irán nuestras implementaciones
+* un archivo de configuración phpunit.xml con el autoloader configurado de manera que no tendremos que hacer includes de nuestras clases simpre y cuando usemos las carpetas tests para los tests y src para la implementación (y usemos PSR-0)
 
 Para ejecutar nuestros tests unitarios ejecuaremos en nuestra carpeta kataphp:
 
