@@ -20,7 +20,7 @@ sudo mv composer /usr/local/bin/composer
 ejecutar el comando:
 
 ```
-composer create-project gonzalo123/kataphp
+composer create-project -s dev gonzalo123/kataphp
 ```
 
 Esto creará un directorio 
