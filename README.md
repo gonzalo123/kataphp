@@ -5,7 +5,7 @@ Sigue estos sencillos pasos y lo tendrás todo listo en unos segundos:
 
 + Instalar PHP (si no lo tienes instalado ya)
 
-A tu cuenta. Te recomiendo usar la rama 5.4 aunque no tendrías que tener problemas con la rama 5.3
+A tu cuenta. Te recomiendo usar la rama 5.4, o mejor aún con la 5.5, aunque no tendrías que tener problemas con la rama 5.3
 Ejecuta php -v desde la consola para asegurarte que tienes php instalado
 
 + Instalar composer (si no lo tienes instalado ya)
