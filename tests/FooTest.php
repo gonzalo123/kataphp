@@ -1,6 +1,8 @@
 <?php
 
-class FooTest extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+class FooTest extends TestCase
 {
     function testBar()
     {
